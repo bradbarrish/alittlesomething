@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Done Manifesto
-date: 
+date: 2024-01-01
 author: Brad Barrish
 description:
 ogimage: opengraphimage.jpeg
