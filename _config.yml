@@ -1,0 +1,11 @@
+title: For My Children
+email: brad@bradbarrish.com
+description: A whole bunch of stuff I've collected for my kids.
+url: "https://a.littlesometh.ing/"
+twitter: bradbarrish
+
+baseurl: ""
+permalink: /:categories/:title:output_ext
+markdown: kramdown
+plugins:
+  - jekyll-feed
