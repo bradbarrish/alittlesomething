@@ -1,10 +1,10 @@
 ---
-tags:
-  - Quotes
-  - For_My_Children
-  - Music
-  - Writing
-  - Parenting
+layout: post
+title: Let's hang it on the refrigerator
+date: 2024-01-01
+author: Brad Barrish
+description:
+ogimage: opengraphimage.jpeg
 ---
 [[Jeff Tweedy]] is the lead singer and songwriter of one of my favorite bands, [[Wilco]]. Mama likes them a lot too. Jeff used to in a band called [[Uncle Tupelo]], who I also really liked, but are more of an *acquired* taste. They never achieved the level of fame that Wilco (or Jeff) has. This quote is from [an interview he did in 2002](https://www.newsweek.com/where-theres-wilco-145799).
   

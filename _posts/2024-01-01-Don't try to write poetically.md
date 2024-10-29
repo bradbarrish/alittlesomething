@@ -1,3 +1,12 @@
+---
+layout: post
+title: Don't try to write poetically
+date: 2024-01-01
+author: Brad Barrish
+description:
+ogimage: opengraphimage.jpeg
+---
+
 > The subliminal message of English class is that good writing needs to be poetic. Students read novels with purple prose and try to replicate it in their five-paragraph essays so they can impress their teachers.  
 >   
 > This obsession with poetic writing is one of the most destructive outcomes of modern writing education. Focus on clear writing instead.  
