@@ -22,6 +22,3 @@ ogimage: opengraphimage.jpeg
 13. Done is the engine of more.
 
 [Created](https://medium.com/@bre/the-cult-of-done-manifesto-724ca1c2ff13#.9lddqeluy) by [Bre Pettis](http://www.brepettis.com/) and [Kio Stark](http://www.kiostark.com/)
-
----
-
