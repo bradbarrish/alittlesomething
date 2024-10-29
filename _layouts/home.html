@@ -13,12 +13,11 @@ layout: default
 <hr />
 
   {%- if site.posts.size > 0 -%}
-    <h2>{{ page.list_title | default: "Posts" }}</h2>
-    <ul class="more-space">
+    <div class="more-space">
       {%- for post in site.posts limit:10 -%}
-      <li><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></li>
+      <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
       {%- endfor -%}
-    </ul>
+    </div>
   {%- endif -%}
 
 </main>
