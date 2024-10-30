@@ -6,7 +6,6 @@ author: Brad Barrish
 description:
 ogimage: opengraphimage.jpeg
 ---
-
 1. There are three states of being. Not knowing, action and completion.
 2. Accept that everything is a draft. It helps to get it done.
 3. There is no editing stage.
