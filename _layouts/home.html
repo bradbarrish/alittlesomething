@@ -14,7 +14,7 @@ layout: default
 
   {%- if site.posts.size > 0 -%}
     <div class="more-space">
-      {%- for post in site.posts limit:10 -%}
+      {%- for post in site.posts limit:100 -%}
       <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
       {%- endfor -%}
     </div>
