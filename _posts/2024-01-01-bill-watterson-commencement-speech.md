@@ -6,7 +6,7 @@ author: Brad Barrish
 description: 
 ogimage: opengraphimage.jpeg
 ---
-This is one of those things that, because it happened before the web, it is tough to find online. While I found the text, which you will find below, I could not find a recording of any kind, so I recorded myself reading it to you! 
+This is one of those things that, because it happened before the web, it is tough to find online. While I found the text, which you will find below, I could not find a recording of any kind, so I recorded myself reading it to you! I flubbed a few sentences and was too lazy to edit it. As Voltaire said, "Perfect is the enemy of good." 
 
 <audio controls preload="auto">
   <source src="/assets/brad-reading-bill-watterson-commencement-speech.m4a" type="audio/mp4">
