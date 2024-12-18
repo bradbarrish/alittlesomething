@@ -21,7 +21,7 @@ _Yeah, I mean, honestly, there was one thing that really helped me, which was ou
 
 _And I think that I don't know if Finneas would agree, but like something that I think has always helped in songwriting is giving yourself permission to write a bad song. I think that sometimes you have this high expectation for yourself and you're like, I don't know, it has to be really good. But you can't just sit down and make something perfect immediately every time._
 
-_You have to try and fail. And that was something that was really hard for me. I'm not good at patience, and I'm not good at not being good at something until I am.   
+_You have to try and fail. And that was something that was really hard for me. I'm not good at patience, and I'm not good at not being good at something until I am._
 
 _I want to be really good immediately. And I think it's just something that helped me a lot is just allowing myself to not be amazing and just make something to make it and not worry if it's good._
 
