@@ -1,12 +1,12 @@
 ---
-tags:
-  - Death
-  - Cancer
-connections:
-  - "[[Oliver Sacks]]"
-  - "[[The Grateful Dead]]"
-  - "[[Web SItes/a.littlesomethi.ng/For My Children|For My Children]]"
+layout: post
+title: There Will Be No One Like Us When We Are Gone
+date: 2024-01-01
+author: Brad Barrish
+description:
+ogimage: opengraphimage.jpeg
 ---
+
 > "There will be no one like us when we are gone, but then there is no one like anyone else, ever."
 
 The quote is from Oliver Sacks' op-ed called "[My Own Life](https://www.nytimes.com/2015/02/19/opinion/oliver-sacks-on-learning-he-has-terminal-cancer.html)," which I've included below in it's entirety. I highly recommend having some Oliver Sacks books around and reading as many as you can. He absolutely loved The Grateful Dead. He died on August 30, 2015.
