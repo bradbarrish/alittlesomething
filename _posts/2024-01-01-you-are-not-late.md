@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You are not late
+title: You Are Not Late
 date: 2024-01-01
 author: Brad Barrish
 description:
