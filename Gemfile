@@ -2,6 +2,7 @@ source "https://rubygems.org"
 
 # Required for Ruby 3.4.5 compatibility
 gem "csv"
+gem "bigdecimal"
 
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the
