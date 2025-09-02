@@ -7,7 +7,7 @@ description:
 ogimage: opengraphimage.jpeg
 ---
 
-I came across this quote from someone's blog post (I don't know them) and it really hit me and stuck with me.
+I came across this quote from someone's [blog post](https://tala.bearblog.dev/perfectionism-is-a-form-of-shame/) (I don't know them) and it really hit me and stuck with me.
 
 > Perfectionism often wears the mask of high standards, ambition, discipline. It parades itself as virtue, a propriety. In reality, it is rarely about the pursuit of excellence but the terror of being perceived as inadequate.
 
