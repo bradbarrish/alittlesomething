@@ -8,6 +8,6 @@ ogimage: opengraphimage.jpeg
 ---
 
 > Without great solitude no great work is possible.
-> –– [[Pablo Picasso]]
+> –– Pablo Picasso
 
 I think Picasso was onto something. I do love my solitude. You know this. 
